@@ -4,4 +4,4 @@ Library to determine the parity of integer.
 
 ## Time complexity
 
-The algorithm has a revolutionary O(n) time complexity
+The algorithm has a revolutionary Θ(n) time complexity
