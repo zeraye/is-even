@@ -10,6 +10,6 @@ The algorithm has a revolutionary Θ(n) time complexity
 
 Want to use bigo numbers?
 
-![bonk](https://i.imgur.com/ZnwLBox.png)
+![bonk](hhttps://i.imgur.com/BwKjiWE.png)
 
 Hooman don't use them. Bigo numbers bad, smol numbers good. See [issue](https://github.com/zeraye/is-even/issues/1). Stack-overflow is usually good frien, but not in this case :c
